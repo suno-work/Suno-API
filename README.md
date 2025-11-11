@@ -13,7 +13,7 @@ Suno API delivers advanced AI music capabilities through easy-to-integrate APIs,
 -  API Status - Monitor real-time service status
 -  Developer Resources - Comprehensive guides and best practices
 # API Base URL
-All API requests should be sent to: ++https://api.suno.work++
+All API requests should be sent to: https://api.suno.work
 # Authentication
 All API requests require authentication using a Bearer token:
 
